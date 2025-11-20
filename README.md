@@ -7,7 +7,8 @@ The project systematically replicates the NAACL 2024 XSTest benchmark and extend
 Exaggerated safety refers to **unjustified refusals on safe prompts**, a growing alignment issue that affects the usefulness, trustworthiness, and practical deployment of contemporary LLMs.
 
 ---
-
+### Original repository link- https://github.com/paul-rottger/xstest/tree/main
+### Paper link- https://aclanthology.org/2024.naacl-long.301/
 ---
 
 ## 🚀 What This Project Does
